@@ -1,0 +1,9 @@
+# Input: Read two numbers from the user
+num1 = float(input("Enter the first number: "))
+num2 = float(input("Enter the second number: "))
+
+# Calculate the sum
+sum_of_numbers = num1 + num2
+
+# Output: Print the sum
+print("The sum of the two numbers is:", sum_of_numbers)
